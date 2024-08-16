@@ -146,7 +146,7 @@ body {
 }
 /* End Header */
 .landing {
-  background-image: url(CSS/cristina-gottardi-4L-AyDJM-yM-unsplash.jpg);
+  background-image: url(../images/cristina-gottardi-4L-AyDJM-yM-unsplash.jpg);
   background-size: cover;
   height: calc(100vh - 64px);
   position: relative;
